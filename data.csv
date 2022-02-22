@@ -1,17 +1,17 @@
-Industry	Workforce Size < 250	Workforce Size 250 +	Total
-Mining And Quarrying	15	13.0	28
-Manufacturing	1785	1370.0	3155
-Water Supply, Sewerage, Waste Management And Remediation Activities	130	71.0	201
-Construction	722	312.0	1034
-Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles	1819	1180.0	2999
-Accommodation And Food Service Activities	975	659.0	1634
-Transportation And Storage	528	335.0	863
-Information And Communication	794	422.0	1216
-Real Estate Activities	112	88.0	200
-Professional, Scientific And Technical Activities	1303	720.0	2023
-Administrative And Support Service Activities	1287	1072.0	2359
-Education	303	457.0	760
-Human Health And Social Work Activities	145	149.0	294
-Arts, Entertainment And Recreation	415	303.0	718
-Other Service Activities	108	29.0	137
-All Industries	10442	7181.97	17623
+Industry,Workforce Size < 250,Workforce Size 250 +,Total
+Mining And Quarrying,15,13.0,28
+Manufacturing,1785,1370.0,3155
+"Water Supply, Sewerage, Waste Management And Remediation Activities",130,71.0,201
+Construction,722,312.0,1034
+Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,1819,1180.0,2999
+Accommodation And Food Service Activities,975,659.0,1634
+Transportation And Storage,528,335.0,863
+Information And Communication,794,422.0,1216
+Real Estate Activities,112,88.0,200
+"Professional, Scientific And Technical Activities",1303,720.0,2023
+Administrative And Support Service Activities,1287,1072.0,2359
+Education,303,457.0,760
+Human Health And Social Work Activities,145,149.0,294
+"Arts, Entertainment And Recreation",415,303.0,718
+Other Service Activities,108,29.0,137
+All Industries,10442,7181.97,17623
